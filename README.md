@@ -5,7 +5,7 @@ This project leverages deep learning with Long Short-Term Memory (LSTM) networks
 
 ### Features
 
-Time-Series Data Processing: Historical metrics are normalized and sequenced for each device over 30-day windows.
+$ Time-Series Data Processing: Historical metrics are normalized and sequenced for each device over 30-day windows.
 
 LSTM Architecture: A multi-layered LSTM model captures sequential dependencies in time-series data to predict future failures.
 
